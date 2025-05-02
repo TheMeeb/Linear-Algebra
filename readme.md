@@ -80,8 +80,3 @@ This roadmap pairs linear algebra theory with hands-on programming tasks to soli
 | SVD (Intro Level)             | Explore using NumPy’s SVD and understand its structure                      |
 
 ---
-
-## ✅ Tips:
-- Use **NumPy** or create your own matrix class (if using Python).
-- Start with **small dimensions (2x2 or 3x3)** to debug easily.
-- For practice, generate random matrices and test against known libraries (like NumPy or MATLAB).
