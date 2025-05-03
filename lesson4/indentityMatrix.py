@@ -2,6 +2,8 @@ import numpy as np
 
 mat1 = np.random.randint(10, size=(2, 2))
 print(mat1)
+
+# identity Matrix
 mat2 = [[1, 0], [0, 1]]
 
 
